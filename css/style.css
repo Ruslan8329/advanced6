@@ -1,0 +1,17 @@
+body {
+  height: 200vh;
+}
+
+.navbars {
+  position: fixed;
+}
+
+.btn {
+  margin-top: 400px;
+}
+
+.box {
+  position: fixed;
+  top: 10px;
+  left: 300px;
+}
